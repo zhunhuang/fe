@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 应用介绍
+- 基于create-react-app 初始化
+- 基于npm进行项目依赖管理
+- 引入蚂蚁金服antd框架
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -42,9 +47,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
----
-## 应用介绍
-- 基于create-react-app 初始化
-- 基于npm进行项目依赖管理
-- 引入蚂蚁金服antd框架
