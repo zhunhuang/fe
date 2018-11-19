@@ -1,9 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## 应用介绍
-- 基于create-react-app 初始化
-- 基于npm进行项目依赖管理
-- 引入蚂蚁金服antd框架
+- 基于`create-react-app` 初始化
+- 基于`npm`进行项目依赖管理
+- 引入蚂蚁金服 `Ant Design`框架提供企业级后台快速搭建
 
 ## Available Scripts
 
@@ -47,3 +47,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+To learn Ant Design, check out the [Ant Design of React](https://ant.design/docs/react/introduce-cn)
